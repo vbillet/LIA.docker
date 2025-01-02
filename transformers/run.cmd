@@ -1,0 +1,1 @@
+docker run -ti --rm --name qiaia --add-host=MONSTRE-2024:192.168.1.142 -p 8080:8080 -p 11434:11434 -v c:/work/ia/juwo/:/workspace/ qia
